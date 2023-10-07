@@ -1,0 +1,4 @@
+name: Playstyle
+version: '${project.version}'
+main: com.wsquarepa.playstyle.Playstyle
+api-version: '1.20'

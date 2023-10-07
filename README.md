@@ -22,6 +22,8 @@ Currently four playstyles implemented
 Other changes for each playstyle can be found in-game after hovering over each available playstyle when listed using `/playstyle`
 
 ## Building
+You can find bleeding-edge builds in the [Actions](https://github.com/BeyondChatbots/Playstyle/actions/) tab.
+
 This project uses [Maven](https://maven.apache.org/) to build.
 To build, follow these steps:
 1. Clone the repository
